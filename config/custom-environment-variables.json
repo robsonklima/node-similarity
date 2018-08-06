@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "atena_jwtPrivateKey",
+  "db": "MONGODB_URI"
+}

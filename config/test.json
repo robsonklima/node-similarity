@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "1234",
+  "db": "mongodb://localhost/projects_similarity_tests"
+}

@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "atena_jwtPrivateKey",
+  "db": "mongodb://localhost/projects_similarity"
+}
